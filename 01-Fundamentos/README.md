@@ -14,8 +14,7 @@ Patrones de Diseño (GoF) - Creacionales, Estructurales y de Comportamiento.
 
 **Cuándo leer:** Cuando necesites soluciones probadas a problemas comunes de diseño.
 
-### 3. MANUAL_TESTING.md
-Testing de Software - Tipos de tests (unitarios, integración, E2E), pirámide de testing, TDD, herramientas (JUnit, Jest, Cypress).
+
 
 **Cuándo leer:** Cuando necesites implementar tests o mejorar la calidad del código con pruebas automatizadas.
 
@@ -25,7 +24,6 @@ Testing de Software - Tipos de tests (unitarios, integración, E2E), pirámide d
 
 1. **MANUAL_SOLID_PRINCIPLES.md** - Base fundamental
 2. **MANUAL_DESIGN_PATTERNS.md** - Aplicación práctica de SOLID
-3. **MANUAL_TESTING.md** - Asegurar calidad con tests automatizados
 
 ---
 

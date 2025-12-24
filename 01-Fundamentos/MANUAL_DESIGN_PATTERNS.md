@@ -3808,8 +3808,7 @@ NO uses patrones cuando:
 **Happy Pattern Coding!** 🎯
 
 ---
-
 **Última actualización:** Diciembre 2025
 **Versión:** 1.0
-**Autor:** Manual de Patrones de Diseño
+**Autor:** Illescas, Michael Jonathan
 **Licencia:** Uso libre para aprendizaje y aplicación profesional

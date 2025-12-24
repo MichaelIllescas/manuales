@@ -1326,4 +1326,5 @@ Resultado:
 
 **Última actualización:** Diciembre 2025
 **Versión:** 1.0
+**Autor:** Illescas, Michael Jonathan
 **Licencia:** Uso libre para aprendizaje y aplicación profesional

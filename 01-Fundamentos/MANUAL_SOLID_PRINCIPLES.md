@@ -2847,5 +2847,5 @@ Aplica SOLID cuando la complejidad lo justifique.
 
 **Última actualización:** Diciembre 2025
 **Versión:** 1.0
-**Autor:** Manual de Principios SOLID
+**Autor:** Illescas, Michael Jonathan
 **Licencia:** Uso libre para aprendizaje y aplicación profesional
